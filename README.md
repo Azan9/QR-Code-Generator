@@ -39,7 +39,7 @@ Once the app is running, you will get a promt in the terminal to enter a URL, en
 
 ![image](https://github.com/Azan9/QR-Code-Generator/assets/43653409/3c6bbf01-c520-43a0-b21a-4ee65622ad8e) 
 
-![image](https://github.com/Azan9/QR-Code-Generator/assets/43653409/4424645a-c143-43ea-a208-17dc0a57d0e8)
+![image](https://github.com/Azan9/QR-Code-Generator/assets/43653409/34117a77-e5d7-4fac-a39b-2a0b260c65b7)
 
 Use a QR scanner in your phone to test out the QR code.
 
