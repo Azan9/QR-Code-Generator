@@ -33,7 +33,7 @@ After installing the packages. Run the node.js app using the following command.
 
 # Using the app
 
-Once the app is running, you will get a promt in the terminal to enter a URL, enter a URL and hit enter and a qr code image will be created in your project folder
+Once the app is running, you will get a prompt in the terminal to enter a URL, enter a URL and hit enter and a qr code image will be created in your project folder.
 
 ![image](https://github.com/Azan9/QR-Code-Generator/assets/43653409/df26c34f-1a92-4447-a325-d79f2f5395c1)
 
