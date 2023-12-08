@@ -16,7 +16,7 @@ Go to the project fuler and run the following two commands in the terminal to in
 
 ``` npm i inquirer qr-image ``` 
 
-# Modifying the package.json file to using the NPM modules/packages
+# Modifying the package.json file to use the NPM modules/packages
 
 Add the code below to the package.json file
 
